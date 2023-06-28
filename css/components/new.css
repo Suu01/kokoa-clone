@@ -1,0 +1,16 @@
+.new-nav {
+  right: -3px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: tomato;
+}
+
+.new-screen {
+  right: -7px;
+  top: -5px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: tomato;
+}
